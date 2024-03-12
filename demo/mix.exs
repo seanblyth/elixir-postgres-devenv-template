@@ -19,7 +19,7 @@ defmodule Demo.MixProject do
   def application do
     [
       mod: {Demo.Application, []},
-      extra_applications: [:logger, :runtime_tools, :application_masteros_mon]
+      extra_applications: [:logger, :runtime_tools, :os_mon]
     ]
   end
 
