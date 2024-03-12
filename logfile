@@ -1,0 +1,2 @@
+2024-03-12 11:42:54.466 GMT [63936] FATAL:  lock file "postmaster.pid" already exists
+2024-03-12 11:42:54.466 GMT [63936] HINT:  Is another postmaster (PID 57907) running in data directory "/home/sean/development/nix/elixir-phoenix-postgres/.devenv/state/postgres"?
